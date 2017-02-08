@@ -1,15 +1,15 @@
 # Operating Systems Project
 
-Usage
+## Usage
 
 	1. Run the server in your terminal using:
-		```
+		
 		java -cp bankserver.jar server.ServerRunner
-		```
+		
 	2. Run multiple instances of the client in your terminal using:
-		```
+		
 		java -cp bankclient.jar client.ClientRunner
-		```
+		
 
 ## Server
 
